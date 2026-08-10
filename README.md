@@ -1,4 +1,4 @@
-# Board 01 — Caveman Brick
+# B01 — Caveman Brick
 
 This is where I started. A USB-C brick that steps 5 V down to 3.3 V and blinks
 an LED off an NE555. I wanted one project
