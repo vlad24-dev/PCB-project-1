@@ -9,7 +9,7 @@ the next one wouldn't have to, at least not in the same ways :)
 |---|---|
 | **Status** | Rev A — schematic done, ERC clean |
 | **Started** | 2026-08-10 |
-| **Designer** | FILL IN YOUR NAME |
+| **Designer** | Vasii Vlad Andrei |
 | **EDA tool** | KiCad 10.0.5 |
 | **Layers** | 2 |
 | **Dimensions** | 50 × 40 mm (target) |
