@@ -15,21 +15,6 @@ the next one wouldn't have to, at least not in the same ways :)
 | **Dimensions** | 50 × 40 mm (target) |
 | **Fabricator** | TBD |
 
-## Why this board exists
-
-The circuit doesn't matter. What matters is closing the loop once, start to
-finish, on something simple enough that when it breaks — and it will — the
-cause is findable in an afternoon instead of a week:
-
-    requirements -> schematic -> layout -> fabrication -> assembly -> bring-up -> test -> postmortem
-
-Everything past this point is me actually doing that, mistakes included.
-
-## Result
-
-<!-- Fill in after bring-up. Include a photo of the assembled board here. -->
-
-_Not yet built._
 
 ## Key learnings
 
